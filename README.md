@@ -181,7 +181,7 @@ const validation = {
 
 ## People
 
-[List of all contributors](https://github.com/smn-official/smn-colorize/graphs/contributors)
+[List of all contributors](https://github.com/smn-official/smn-schema-validator/graphs/contributors)
 
 ## License
 
