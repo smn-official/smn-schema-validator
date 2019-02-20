@@ -179,6 +179,17 @@ const validation = {
 }
 ```
 
+### Custom Error Message
+When you want custom error message.
+e.g.:
+```js
+const validation = {
+    name: {
+        required: { value: true, message: 'Name not found' },
+        type: {  value: String, message: 'Wrong type'}
+    }
+}
+```
 ## People
 
 [List of all contributors](https://github.com/smn-official/smn-schema-validator/graphs/contributors)
