@@ -1,6 +1,6 @@
 {
     "name": "smn-schema-validator",
-    "version": "1.0.5",
+    "version": "1.0.4",
     "description": "A package for objects validations using javascript",
     "main": "./lib/scope.js",
     "author": "SMN <github@smn.com.br>",
